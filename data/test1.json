@@ -1,0 +1,7 @@
+{
+  "date": "2016-02-15",
+  "user_id": 1,
+  "user_type": "legal",
+  "type": "cash_in",
+  "operation": { "amount": 400.0, "currency": "EUR" }
+}
